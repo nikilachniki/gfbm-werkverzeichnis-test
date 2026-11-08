@@ -1,4 +1,32 @@
 {
   "@context": "../schema/context.jsonld",
-  "entries": []
+  "entries": [
+    {
+      "@id": "works:1",
+      "@type": "Work",
+      "titles": [
+        {
+          "text": {
+            "de": "Test"
+          },
+          "type": "terms:MainTitle"
+        }
+      ],
+      "identifiers": [
+        {
+          "list": "LaV",
+          "value": "1"
+        }
+      ],
+      "contributors": [
+        {
+          "agent": "persons:lasso",
+          "role": "terms:Composer"
+        }
+      ],
+      "realisedIn": [
+        "expressions:1"
+      ]
+    }
+  ]
 }
