@@ -8,6 +8,14 @@
       "languages": [
         "terms:German"
       ]
+    },
+    {
+      "@id": "expressions:1-2",
+      "@type": "Expression",
+      "label": "Nummer 2",
+      "languages": [
+        "terms:Latin"
+      ]
     }
   ]
 }

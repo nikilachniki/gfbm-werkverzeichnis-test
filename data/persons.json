@@ -6,6 +6,11 @@
       "@type": "Person",
       "familyName": "Lasso",
       "givenName": "Orlando du"
+    },
+    {
+      "@id": "persons:mia",
+      "@type": "Person",
+      "familyName": "mia"
     }
   ]
 }
