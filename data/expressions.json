@@ -1,4 +1,13 @@
 {
   "@context": "../schema/context.jsonld",
-  "entries": []
+  "entries": [
+    {
+      "@id": "expressions:1",
+      "@type": "Expression",
+      "label": "Test",
+      "languages": [
+        "terms:German"
+      ]
+    }
+  ]
 }
