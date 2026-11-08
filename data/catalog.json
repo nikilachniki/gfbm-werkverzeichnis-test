@@ -2,6 +2,7 @@
   "@context": "../schema/context.jsonld",
   "@id": "urn:uuid:dataCatalogs/catalog",
   "@type": "Catalogue",
-  "label": "Name des Werkverzeichnisses",
-  "catalogueAbbreviation": "WV"
+  "label": "Werkverzeichnis Orlando hol dein Lasso raus",
+  "catalogueAbbreviation": "LaV",
+  "composer": "persons:lasso"
 }

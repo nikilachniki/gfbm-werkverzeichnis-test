@@ -1,4 +1,11 @@
 {
   "@context": "../schema/context.jsonld",
-  "entries": []
+  "entries": [
+    {
+      "@id": "persons:lasso",
+      "@type": "Person",
+      "familyName": "Lasso",
+      "givenName": "Orlando du"
+    }
+  ]
 }
