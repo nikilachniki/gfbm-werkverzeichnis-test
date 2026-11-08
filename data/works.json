@@ -29,38 +29,6 @@
       ]
     },
     {
-      "@id": "works:1-2",
-      "@type": "Work",
-      "titles": [
-        {
-          "text": {
-            "la": "Nummer 2"
-          },
-          "type": "terms:MainTitle"
-        }
-      ],
-      "identifiers": [
-        {
-          "list": "LaV",
-          "value": "1-2"
-        }
-      ],
-      "contributors": [
-        {
-          "agent": "persons:lasso",
-          "role": "terms:Composer"
-        },
-        {
-          "agent": "persons:mia",
-          "role": "terms:Lyricist",
-          "certainty": "terms:MediumCertainty"
-        }
-      ],
-      "realisedIn": [
-        "expressions:1-2"
-      ]
-    },
-    {
       "@id": "works:1-2-2",
       "@type": "Work",
       "titles": [

@@ -10,14 +10,6 @@
       ]
     },
     {
-      "@id": "expressions:1-2",
-      "@type": "Expression",
-      "label": "Nummer 2",
-      "languages": [
-        "terms:Latin"
-      ]
-    },
-    {
       "@id": "expressions:1-2-2",
       "@type": "Expression",
       "label": "seconda pars",
