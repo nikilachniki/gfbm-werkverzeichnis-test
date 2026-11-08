@@ -59,6 +59,37 @@
       "realisedIn": [
         "expressions:1-2"
       ]
+    },
+    {
+      "@id": "works:1-2-2",
+      "@type": "Work",
+      "titles": [
+        {
+          "text": {
+            "la": "seconda pars"
+          },
+          "type": "terms:MainTitle"
+        }
+      ],
+      "identifiers": [
+        {
+          "list": "LaV",
+          "value": "1-2"
+        }
+      ],
+      "partOfWork": "works:1",
+      "textSources": [
+        "Psalm 150"
+      ],
+      "contributors": [
+        {
+          "agent": "persons:lasso",
+          "role": "terms:Composer"
+        }
+      ],
+      "realisedIn": [
+        "expressions:1-2-2"
+      ]
     }
   ]
 }

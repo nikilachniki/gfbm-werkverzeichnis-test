@@ -16,6 +16,21 @@
       "languages": [
         "terms:Latin"
       ]
+    },
+    {
+      "@id": "expressions:1-2-2",
+      "@type": "Expression",
+      "label": "seconda pars",
+      "notes": [
+        {
+          "label": "wie geil isses?",
+          "html": "voll geil"
+        }
+      ],
+      "languages": [
+        "terms:Latin"
+      ],
+      "partOfExpression": "expressions:1"
     }
   ]
 }
