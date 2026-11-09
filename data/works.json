@@ -87,7 +87,8 @@
       ],
       "realisedIn": [
         "expressions:3"
-      ]
+      ],
+      "partOfWork": "works:3"
     }
   ]
 }
