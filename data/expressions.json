@@ -27,7 +27,8 @@
     {
       "@id": "expressions:3",
       "@type": "Expression",
-      "label": "quatsch mit soß"
+      "label": "quatsch mit soß",
+      "partOfExpression": "expressions:3"
     }
   ]
 }
