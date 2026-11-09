@@ -23,6 +23,11 @@
         "terms:Latin"
       ],
       "partOfExpression": "expressions:1"
+    },
+    {
+      "@id": "expressions:3",
+      "@type": "Expression",
+      "label": "quatsch mit soß"
     }
   ]
 }
