@@ -1,4 +1,32 @@
 {
   "@context": "../schema/context.jsonld",
-  "entries": []
+  "entries": [
+    {
+      "@id": "manifestations:krasse-handschrift-jo",
+      "@type": "Manifestation",
+      "titles": [
+        {
+          "text": {
+            "@none": "krasse handschrift jo"
+          }
+        }
+      ],
+      "classifications": [
+        "terms:Manuscript"
+      ],
+      "contents": [
+        {
+          "embodies": "expressions:1",
+          "position": "2"
+        },
+        {
+          "embodies": "expressions:3",
+          "position": "1",
+          "titleInSource": "spätzle mit soß",
+          "voices": 4,
+          "note": "testbemerkung"
+        }
+      ]
+    }
+  ]
 }

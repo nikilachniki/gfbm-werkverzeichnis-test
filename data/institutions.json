@@ -1,4 +1,10 @@
 {
   "@context": "../schema/context.jsonld",
-  "entries": []
+  "entries": [
+    {
+      "@id": "institutions:Muenchen",
+      "@type": "Institution",
+      "name": "München"
+    }
+  ]
 }

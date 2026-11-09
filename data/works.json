@@ -58,6 +58,36 @@
       "realisedIn": [
         "expressions:1-2-2"
       ]
+    },
+    {
+      "@id": "works:3",
+      "@type": "Work",
+      "titles": [
+        {
+          "text": {
+            "@none": "quatsch mit soß"
+          },
+          "type": "terms:MainTitle"
+        }
+      ],
+      "identifiers": [
+        {
+          "list": "LaV",
+          "value": "3"
+        }
+      ],
+      "textSources": [
+        "Psalm 150"
+      ],
+      "contributors": [
+        {
+          "agent": "persons:lasso",
+          "role": "terms:Composer"
+        }
+      ],
+      "realisedIn": [
+        "expressions:3"
+      ]
     }
   ]
 }

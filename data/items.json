@@ -1,4 +1,12 @@
 {
   "@context": "../schema/context.jsonld",
-  "entries": []
+  "entries": [
+    {
+      "@id": "items:krasse-handschrift-jo",
+      "@type": "Item",
+      "label": "krasse-handschrift-jo",
+      "exemplifies": "manifestations:krasse-handschrift-jo",
+      "keeper": "institutions:Muenchen"
+    }
+  ]
 }
